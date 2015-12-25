@@ -1,0 +1,20 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\test\java\CollectionsTests.java, C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\test\java\ExceptionsTests.java)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\test\java\CollectionsTests.java, C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\test\java\ExceptionsTests.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\test\java\CollectionsTests.java, C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\test\java\ExceptionsTests.java)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Java sources to C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\target\scala-2.10\test-classes...[0m
+[0m[[31merror[0m] [0mC:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\test\java\CollectionsTests.java:16:  error: incompatible types: invalid method reference[0m
+[0m[[31merror[0m] [0m        animals.stream().forEach(z::add);[0m
+[0m[[31merror[0m] [0m                                 ^[0m

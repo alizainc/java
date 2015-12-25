@@ -1,0 +1,4 @@
+[0m[[31merror[0m] [0mTest [33mStudentTest[0m.[31mtoStringTest[0m failed: -10 Student toString() returns incorrect value: expected:<...1101: 3[0m
+[0m[[31merror[0m] [0mMATH 1501: 2[[0m
+[0m[[31merror[0m] [0m]> but was:<...1101: 3[0m
+[0m[[31merror[0m] [0mMATH 1501: 2[]>, took 0.0 sec[0m

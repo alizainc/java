@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\Brass.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\DoNotOwnInstrumentException.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\Flute.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\Instrument.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\Musician.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\MusicStore.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\NoLessThanOneInstrumentException.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\NoSameInstrumentException.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\NotEnoughFundsException.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\Percussion.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\SnareDrum.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\Stringed.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\Trumpet.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\Violin.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\hw-instruments-master\src\main\java\Woodwind.java">
+</file>
+</checkstyle>

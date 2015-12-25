@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\main\java\Animal.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\main\java\NoSuchUserException.java">
+<error line="2" column="32" severity="error" message="&apos;(&apos; is preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck"/>
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\main\java\UserDao.java">
+<error line="2" column="1" severity="error" message="Redundant import from the java.lang package - java.lang.ArrayIndexOutOfBoundsException." source="com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck"/>
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\pq-exceptions-collections-master\src\main\java\Zoo.java">
+<error line="1" column="8" severity="error" message="Unused import - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="1" severity="error" message="Duplicate import to line 5 - java.util.Map." source="com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck"/>
+<error line="11" severity="error" message="Comment matches to-do format &apos;TODO:&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+<error line="21" severity="error" message="Comment matches to-do format &apos;TODO:&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+<error line="31" severity="error" message="Comment matches to-do format &apos;TODO:&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+<error line="36" severity="error" message="Comment matches to-do format &apos;TODO:&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+</file>
+</checkstyle>

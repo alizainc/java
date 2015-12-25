@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="C:\Users\Alizain\Desktop\cs1331\pq-students-master\src\main\java\Course.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\pq-students-master\src\main\java\Course.java">
+</file>
+<file name="C:\Users\Alizain\Desktop\cs1331\pq-students-master\src\main\java\Student.java">
+</file>
+</checkstyle>
